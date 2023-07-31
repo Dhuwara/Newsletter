@@ -58,6 +58,3 @@ app.post('/failure',(req,res)=>{
 app.listen(3000)
 
 
-// 52ef3db0e9027e2ad37c645236152b2a-us11
-
-// 68bfd9420f
